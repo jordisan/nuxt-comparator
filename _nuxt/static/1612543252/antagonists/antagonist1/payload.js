@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/antagonists/antagonist1", {data:[{}],fetch:[],mutations:void 0});
