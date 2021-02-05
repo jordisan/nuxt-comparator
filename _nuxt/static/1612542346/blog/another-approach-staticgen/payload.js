@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/another-approach-staticgen", {data:[{}],fetch:[],mutations:void 0});
