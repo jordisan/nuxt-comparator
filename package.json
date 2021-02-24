@@ -15,7 +15,7 @@
     "@nuxt/content": "^1.13.1",
     "@nuxt/typescript-runtime": "^2.0.1",
     "core-js": "^3.9.0",
-    "nuxt": "^2.15.1",
+    "nuxt": "^2.15.2",
     "nuxt-property-decorator": "^2.9.1"
   },
   "devDependencies": {
