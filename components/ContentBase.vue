@@ -19,8 +19,7 @@ export default class ContentBase extends Vue {
     public references: URL[] = []
 
     get createdAtFormatted (): string {
-      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(this.createdAt)?.toLocaleDateString('en', options)
+      return new Date(this.createdAt)?.toLocaleDateString('en', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
     }
 }
 </script>
